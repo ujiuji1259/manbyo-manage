@@ -3,5 +3,6 @@
 ## frontend
 
 ## backend
-`uvicorn main:app --reload`
+Run the following command in `backend` directory.  
+`uvicorn api:app --reload`
 
